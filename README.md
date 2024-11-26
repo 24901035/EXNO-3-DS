@@ -31,7 +31,23 @@ We use this categorical data encoding technique when the features are nominal(do
 • Yeojohnson method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+![WhatsApp Image 2024-11-25 at 20 27 15_f835b101](https://github.com/user-attachments/assets/fc36449b-4f66-4b35-8fe8-5aa6f005755a)
+![WhatsApp Image 2024-11-25 at 20 34 45_16f8b7c3](https://github.com/user-attachments/assets/f2926ddd-e7f9-44a6-b358-1fcb6420eb02)
+![WhatsApp Image 2024-11-25 at 20 34 46_b877736a](https://github.com/user-attachments/assets/49d30358-8443-4229-8b76-dddd9ab2e0f7)
+![WhatsApp Image 2024-11-25 at 20 34 48_070f3369](https://github.com/user-attachments/assets/442312b8-eb03-45ec-9660-a91a6e3534cf)
+![WhatsApp Image 2024-11-25 at 20 34 49_9c21768b](https://github.com/user-attachments/assets/5e0d707f-25aa-4c26-ad67-009af1f2a58e)
+![WhatsApp Image 2024-11-25 at 20 34 49_f3711b64](https://github.com/user-attachments/assets/f5ec7983-d537-47fb-96cc-c3473d7792ae)
+![WhatsApp Image 2024-11-25 at 20 34 50_917a7e14](https://github.com/user-attachments/assets/42fce9f0-7c49-4fa0-bff7-31ec320d21a2)
+![WhatsApp Image 2024-11-25 at 20 34 51_a2b11928](https://github.com/user-attachments/assets/c264e54f-6bef-45e2-8f65-8e54033fdda1)
+![WhatsApp Image 2024-11-25 at 20 34 52_89eedf49](https://github.com/user-attachments/assets/a1a17afc-0a54-40c6-ad3a-be717dd6e68e)
+![WhatsApp Image 2024-11-25 at 20 34 53_ed14810c](https://github.com/user-attachments/assets/db1f19ee-414c-4c2a-afff-ee7a5ee506c5)
+![WhatsApp Image 2024-11-25 at 20 34 54_d7944f19](https://github.com/user-attachments/assets/4f3d3224-6cc8-4bc7-a520-c5299e5b99e5)
+![WhatsApp Image 2024-11-25 at 20 34 55_9c6b038b](https://github.com/user-attachments/assets/83013878-e09b-4e44-832c-f71982c0328e)
+![WhatsApp Image 2024-11-25 at 20 34 55_0532a098](https://github.com/user-attachments/assets/0d1e020e-73bb-479e-b105-591798273ca6)
+![WhatsApp Image 2024-11-25 at 20 34 56_217a9a99](https://github.com/user-attachments/assets/42798f8f-578f-477c-9e50-f934c2c28b9c)
+![WhatsApp Image 2024-11-25 at 20 34 56_4ca347f8](https://github.com/user-attachments/assets/072b9e62-2400-460a-a36a-13649661f4ad)
+![WhatsApp Image 2024-11-25 at 20 34 57_a1c085b7](https://github.com/user-attachments/assets/1afaebd8-3301-4201-b5d5-4249a46888d5)
+
 # RESULT:
        # INCLUDE YOUR RESULT HERE
 
